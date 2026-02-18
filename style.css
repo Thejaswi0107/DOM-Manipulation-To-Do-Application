@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f7fa;
+  padding: 40px;
+}
+h2 {
+  color: #310898;
+}
+
+#taskInput {
+  padding: 8px;
+  width: 220px;
+}
+
+#addBtn {
+  padding: 8px 12px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.task-item {
+  background-color: #fff;
+  padding: 8px;
+  margin: 6px 0;
+  cursor: pointer;
+}
